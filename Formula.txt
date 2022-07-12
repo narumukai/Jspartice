@@ -1,0 +1,20 @@
+1. The formula for Converting km to m & Examples:
+
+As it is clear from the above equation, 1 km is equal to 1000 m. Therefore, the formula for 1 km to m will be-
+
+Meter = value of km x 1000 m
+
+
+
+2.The Formula for Converting From Kilometers to Centimeters
+Km to m conversion is quite simple. The trick is to remember the 1 km to cm value, and you are good to go. 
+
+The formula for Converting from Kilometers to Centimeters is:
+
+Km = km*100000
+
+3.Celsius To Fahrenheit Formula
+
+Use this formula to convert a temperature in Celsius (°C) to Fahrenheit (°F).
+
+Fahrenheit (°F) = (Celsius x 1.8) + 32
