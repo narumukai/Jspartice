@@ -18,3 +18,7 @@ Km = km*100000
 Use this formula to convert a temperature in Celsius (°C) to Fahrenheit (°F).
 
 Fahrenheit (°F) = (Celsius x 1.8) + 32
+
+4.area of equilateral triangle formula: 
+
+(√3/4) × a2 square units,
