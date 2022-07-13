@@ -22,3 +22,8 @@ Fahrenheit (°F) = (Celsius x 1.8) + 32
 4.area of equilateral triangle formula: 
 
 (√3/4) × a2 square units,
+
+Represent like below 
+(√3/4)    - 0.4330127018922193
+a2        -  a*a
+
