@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        div{
+
+            border: 1px solid blueviolet;
+            height: 100px;
+            width: 100px;
+            margin: 5px auto;
+            padding: 5px 5px;
+        }
+
+        
+        /* box contain top left shadow */
+        /* left,top --> represent minus values px
+        right,bottom --> represent positive value px
+        four parameters(direction of box ,direction of box,blur,spread) */
+
+
+        #topleft{
+
+            box-shadow: -5px -5px grey;
+        }
+
+        /* box contain blur shadow */
+        #bottomright{
+            box-shadow: 5px 5px 5px grey;
+
+        }
+        /* box contain outerspread shadow */
+        #outerspread{
+            box-shadow: 0 0 10px grey;
+        }
+        /* box contain inside shadow */
+        #inset{
+            box-shadow: inset 0 0 10px yellow;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Box Shadow Property</h1>
+    <div id="topleft">TopLeft</div>
+    <div id="bottomright">Bottom Right</div>    
+    <div id="outerspread">outer spread</div>
+    <div id="inset">inset</div>
+</body>
+</html>
